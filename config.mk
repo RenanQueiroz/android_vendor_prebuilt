@@ -15,7 +15,7 @@
 # Permissions
 
 PRODUCT_COPY_FILES += \
-    vendor/prebuilt/etc/permissions/com.google.android.camera.experimental2017.xml:system/etc/permissions/com.google.android.camera.experimental2016.xml \
+    vendor/prebuilt/etc/permissions/com.google.android.camera.experimental2016.xml:system/etc/permissions/com.google.android.camera.experimental2016.xml \
     vendor/prebuilt/etc/permissions/com.google.android.dialer.support.xml:system/etc/permissions/com.google.android.dialer.support.xml
 
 # Framework

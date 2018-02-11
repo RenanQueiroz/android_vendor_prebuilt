@@ -12,9 +12,9 @@ LOCAL_DEX_PREOPT := false
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := GoogleCamera
+LOCAL_MODULE := GCamera
 LOCAL_MODULE_TAGS := optional
-LOCAL_SRC_FILES := GoogleCamera/GoogleCamera.apk
+LOCAL_SRC_FILES := GCamera/GCamera.apk
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_MODULE_CLASS := APPS
 LOCAL_OVERRIDES_PACKAGES := Camera2 Snap SnapdragonCamera
